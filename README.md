@@ -7,17 +7,6 @@ snuffbait what the fuck is a wem?????
 
 a ".wem" "wwise encoded media" file is an audio file used by audiokinetic which is used in alot audio engines for video games :3 
 
-
-Wem in a nutshell 
-
-wem
- ├─ wave
- │   ├─ fmt 
- │   ├─ data
- │   ├─ smpl
- │   ├─ cue
- │   └─ list
-
 ![ghffhggfh](https://github.com/user-attachments/assets/a5449dd5-d55a-4e8c-ad76-a3c7bd0af31e)
 
 <img width="693" height="349" alt="hfgfjggjfgj" src="https://github.com/user-attachments/assets/8a4ccf53-b048-493d-81fc-0648a0048456" />
