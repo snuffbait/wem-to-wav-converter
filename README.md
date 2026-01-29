@@ -3,8 +3,9 @@ simple wem to wav converter (wwise encoded media)
 you need vgmstream to use this script (throw all in the same folder)
 https://github.com/vgmstream/vgmstream/releases/tag/r2083
 
+snuffbait what the fuck is a wem?????
 
-
+a ".wem" "wwise encoded media" file is an audio file used by audiokinetic which is used in alot audio engines for video games :3 
 
 
 <img width="693" height="349" alt="hfgfjggjfgj" src="https://github.com/user-attachments/assets/8a4ccf53-b048-493d-81fc-0648a0048456" />
